@@ -1,0 +1,53 @@
+# Core
+streamlit
+python-dotenv
+
+# LangChain & LangGraph
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-openai
+langchain-google-genai
+langchain-huggingface
+langchain-together
+langchain-ollama
+langchain-text-splitters
+langgraph
+langgraph-checkpoint
+langgraph-checkpoint-postgres
+langgraph-sdk
+langsmith
+
+# MCP
+mcp
+fastmcp
+langchain-mcp-adapters
+
+# Search
+tavily-python
+langchain-tavily
+
+# Database
+psycopg[binary,pool]
+psycopg2-binary
+SQLAlchemy
+
+# HTTP & Async
+httpx
+aiohttp
+anyio
+
+# Auth
+Authlib
+cryptography
+PyJWT
+
+# Utils
+pydantic
+pydantic-settings
+requests
+tenacity
+
+transformers
+torch
